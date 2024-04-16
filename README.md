@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm James! I'm currently a student at BYU majoring in Statistics with minors in Computer Science and Mathematics. I like to analyze data to learn about the not-so easy to see trends. I like various types of puzzles and languages. 
+Također, govorim naš jezik da me cijeli svijet razumije ;)
 
 <!--
 **jmc8290/jmc8290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
